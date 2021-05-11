@@ -1,0 +1,12 @@
+C:\Users\LAB INFO 1\Documents\Dokumen\Buku\Visual Basic .Net\Buku\UbahWarnaBackround\UbahWarnaBackround\bin\Debug\UbahWarnaBackround.exe
+C:\Users\LAB INFO 1\Documents\Dokumen\Buku\Visual Basic .Net\Buku\UbahWarnaBackround\UbahWarnaBackround\bin\Debug\UbahWarnaBackround.pdb
+C:\Users\LAB INFO 1\Documents\Dokumen\Buku\Visual Basic .Net\Buku\UbahWarnaBackround\UbahWarnaBackround\bin\Debug\UbahWarnaBackround.xml
+C:\Users\LAB INFO 1\Documents\Dokumen\Buku\Visual Basic .Net\Buku\UbahWarnaBackround\UbahWarnaBackround\obj\x86\Debug\UbahWarnaBackround.Form1.resources
+C:\Users\LAB INFO 1\Documents\Dokumen\Buku\Visual Basic .Net\Buku\UbahWarnaBackround\UbahWarnaBackround\obj\x86\Debug\UbahWarnaBackround.Resources.resources
+C:\Users\LAB INFO 1\Documents\Dokumen\Buku\Visual Basic .Net\Buku\UbahWarnaBackround\UbahWarnaBackround\obj\x86\Debug\UbahWarnaBackround.vbproj.GenerateResource.Cache
+C:\Users\LAB INFO 1\Documents\Dokumen\Buku\Visual Basic .Net\Buku\UbahWarnaBackround\UbahWarnaBackround\obj\x86\Debug\UbahWarnaBackround.exe
+C:\Users\LAB INFO 1\Documents\Dokumen\Buku\Visual Basic .Net\Buku\UbahWarnaBackround\UbahWarnaBackround\obj\x86\Debug\UbahWarnaBackround.xml
+C:\Users\LAB INFO 1\Documents\Dokumen\Buku\Visual Basic .Net\Buku\UbahWarnaBackround\UbahWarnaBackround\obj\x86\Debug\UbahWarnaBackround.pdb
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Buku\UbahWarnaBackround\UbahWarnaBackround\obj\x86\Debug\UbahWarnaBackround.exe
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Buku\UbahWarnaBackround\UbahWarnaBackround\obj\x86\Debug\UbahWarnaBackround.xml
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Buku\UbahWarnaBackround\UbahWarnaBackround\obj\x86\Debug\UbahWarnaBackround.pdb
